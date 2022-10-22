@@ -1,4 +1,4 @@
-name: btcd
+name: erigon
 on:
   push:
   schedule:
