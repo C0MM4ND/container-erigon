@@ -1,0 +1,4 @@
+[submodule "erigon"]
+	path = erigon
+	url = https://github.com/ledgerwatch/erigon.git
+	branch = stable
